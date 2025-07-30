@@ -37,7 +37,7 @@ Add this server to your MCP configuration file:
   "weather": {
     "command": "node",
     "args": ["index.js"],
-    "cwd": "/Users/ben/Developer/weather-mcp-server"
+    "cwd": "/path/to/weather-mcp-server"
   }
 }
 ```
