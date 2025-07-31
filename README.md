@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides weather information using the OpenWeatherMap API.
 
+<a href="https://glama.ai/mcp/servers/@bensinclair/weather-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@bensinclair/weather-mcp-server/badge" alt="Weather Server MCP server" />
+</a>
+
 ## Prerequisites
 
 - Node.js (v14 or higher)
